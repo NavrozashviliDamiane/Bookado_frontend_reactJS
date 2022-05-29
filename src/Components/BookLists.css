@@ -1,0 +1,21 @@
+.ratingfield {
+    width: 150px;
+    align-items: center;
+    display: flex;
+    margin-left: 50px;
+  
+}
+
+.ratingnum {
+    width: 80px;
+    margin-top: 10px;
+
+}
+
+
+.Categoryfield {
+    width: 200px;
+    margin-left: 635px;
+    
+    margin-bottom: 30px;
+}
